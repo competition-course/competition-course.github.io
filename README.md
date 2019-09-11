@@ -3,4 +3,5 @@
 3. [【Kaggle】Predict Future Sales（上）](2-kaggle-predict-future-sales-1.html)
 4. [【Kaggle】Predict Future Sales（下）](2-kaggle-predict-future-sales-2.html)
 5. [【Kaggle】LANL Earthquake Prediction](3-kaggle-lanl-earthquake-prediction.html)
-6. [【Kesci】](4-kesci-.html)
+6. [【Kesci】TAIL CAMP——AI实战训练营 图像识别](4-kesci-facial-expression-recognition.html)
+

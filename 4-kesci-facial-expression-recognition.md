@@ -1,9 +1,11 @@
-## 4.【Kesci】
+## 4.【Kesci】TAIL CAMP——AI实战训练营 图像识别
+
+[好未来AI Lab联手科赛，共同打造「TAIL CAMP——AI实战训练营」，面向有志于用“科技改变教育”的优秀技术青年，免费提供“AI+教育”的实战学习服务。](https://www.kesci.com/home/competition/5a6b51c4afceb51770d6a43a)
 
 ### 4.1 赛前介绍和准备
 
 <video width=80%  controls >
-	<source type="video/mp4" src="4-kesci-/4-1.mp4" />
+	<source type="video/mp4" src="4-kesci-facial-expression-recognition/4-1.mp4" />
 </video>
 
 **任务简介：**熟悉比赛题目和Cloab的使用
@@ -31,7 +33,7 @@
 ### 4.2 Google Colab
 
 <video width=80%  controls >
-	<source type="video/mp4" src="4-kesci-/4-2.mp4" />
+	<source type="video/mp4" src="4-kesci-facial-expression-recognition/4-2.mp4" />
 </video>
 
 **任务简介：**熟悉比赛题目和Cloab的使用
