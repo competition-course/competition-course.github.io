@@ -51,7 +51,16 @@
 ### 3.3 直播答疑
 
 <video width=80%  controls >
-	<source type="video/mp4" src="3-kaggle-lanl-earthquake-prediction/3-2.mp4" />
+	<source type="video/mp4" src="3-kaggle-lanl-earthquake-prediction/3-2-1.mp4" />
+</video>
+
+<video width=80%  controls >
+	<source type="video/mp4" src="3-kaggle-lanl-earthquake-prediction/3-2-2.mp4" />
+</video>
+
+<video width=80%  controls >
+	<source type="video/mp4" src="3-kaggle-lanl-earthquake-prediction/3-2-3.mp4" />
 </video>
 
 **直播内容：**直播答疑（第五周**Kaggle：地震预测**内容相关的问题）
+
